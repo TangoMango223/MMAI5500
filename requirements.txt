@@ -1,0 +1,8 @@
+imageai
+opencv-python
+torch
+torchvision
+pandas
+numpy
+seaborn
+scipy
