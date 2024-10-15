@@ -2,4 +2,8 @@ tiny-yolov3.pt
 tutorial_images.zip
 tutorial_video.zip
 yolov3.pt
+<<<<<<< HEAD
 retinanet_resnet50_fpn_coco-eeacb38b.pth
+=======
+retinanet_resnet50_fpn_coco-eeacb38b.pth
+>>>>>>> d98b390 (Added code.)
