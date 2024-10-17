@@ -6,3 +6,7 @@ pandas
 numpy
 seaborn
 scipy
+
+# For neural networks
+tensorflow
+pillow
