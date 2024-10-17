@@ -3,7 +3,11 @@ tutorial_images.zip
 tutorial_video.zip
 yolov3.pt
 <<<<<<< HEAD
+<<<<<<< HEAD
 retinanet_resnet50_fpn_coco-eeacb38b.pth
 =======
 retinanet_resnet50_fpn_coco-eeacb38b.pth
 >>>>>>> d98b390 (Added code.)
+=======
+retinanet_resnet50_fpn_coco-eeacb38b.pth
+>>>>>>> 314f3f1 (Track large file with Git LFS)
