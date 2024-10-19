@@ -1,7 +1,10 @@
+# Other files earlier, such as object detection
 imageai
 opencv-python
 torch
 torchvision
+
+# General Data Science
 pandas
 numpy
 seaborn
@@ -10,3 +13,6 @@ scipy
 # For neural networks
 tensorflow
 pillow
+
+# For label-studio for DL A2
+label-studio
